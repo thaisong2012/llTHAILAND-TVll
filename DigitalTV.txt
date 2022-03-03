@@ -26,8 +26,7 @@ https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/nation/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
-
-http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist.m3u8
+https://cdn6.goprimetime.info//feed//202105171329//chworkpoint//index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/true4u/
