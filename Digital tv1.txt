@@ -1,0 +1,296 @@
+#EXTM3U URL
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png",5 HD
+https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png",5 HD สำรอง
+https://edge-m1.onlineprostream.com:447/hmcb4rf66f-th1/hd-ch5_720/chunks.m3u8?nimblesessionid=475139&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjEgMTo0NDozNSBQTSZoYXNoX3ZhbHVlPWQzNXdLNkdLbHVOeTdjdWpVa0Z4ZWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0zOTUzMjQ2fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2fDE2MjAzOTUwNzV8aGQtY2g1fDM5NTMyNDZ8MjIzLjIwNC4yMjMuMjQ5
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png",NBT
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png",Thai PBS
+https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.imgur.com/Jrqo8JP.png",TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.imgur.com/Jrqo8JP.png",TNN 16
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",NEW TV
+https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png",NATION TV
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png"",WORK POINT
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png",True4u
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2uK8.png",GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg", ch8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png",MONO29 HD
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png",MCOT HD
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png",,GMM ONE HD
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png",Thairath HD
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.inwiptv.com/postor/202002080022223%20HD.jpg",3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.inwiptv.com/postor/20200208002253amarin%20tv.jpg",Amarin
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png",7HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png",PPTV HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGKCBz.png",News1
+http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.pinimg.com/originals/f6/1b/69/f61b693c366675849d8cc1097672f8ba.jpg",Top News
+http://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/22/jXwT58.jpg",Toonee
+http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP8BXJ.jpg",Animax
+http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP84kD.jpg",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP8W6g.jpg",Boomerang TH
+http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://drive.google.com/uc?id=1ZvMi6UHu08fMkHPCL385qNpop7GZDgoj",MOMO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP80WW.png",CN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jPrAMz.jpg",BabyTV
+http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP8BXJ.jpg",Animax
+https://cdn6.goprimetime.info/feed/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP8kxf.jpg",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/18/j6d1xQ.jpg",TRT CORUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oq0iJe.jpg",babyfirst
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunkli.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oq7kPS.png",tvokids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",M kids
+http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",Fwmov
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.inwiptv.com/postor/20200512165346fwsov.jpg",Fwsov
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.inwiptv.com/postor/20200512162950fw%20teletoon(1).jpg",FwToon
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHN38cdbl2BpDylYRI12mKnZeXPyqWchvbcBwQADzv3kMSuPSR5qBAqfuMh-iacsGVTZg&usqp=CAU",HBO
+http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_kPUI-0hjC3DgtlQHUmCDzgvFYd2TyuKU0uqg1saX5jw7O3T6-SmbK3kJLppwfg8mZtk&usqp=CAU",HBO 2
+http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8EDo5UFILd3p_SRhUdtN-dvX_v2VWi5ugvIFcBFSKY8f1pXehQyO-b861D4wCny1DKE&usqp=CAU",HBO PLUS
+http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/O5rzfZ.jpg",HBO Signatur
+http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/O5r4qI.jpg",HBO FAMILY
+http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2A4f.png",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/O5rWF8.jpg",HBO Hit
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.tvchinese.net/uploads/tv/hbosignature.jpg",HBO Signature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/OO1W9Z.jpg",FOX Action
+http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqa9sRPZazqutAG3OA0fFHd12E1_t6fpdxGiXJ3JwwP-r0BjaNIEoNvtdrXDzNszA-w&usqp=CAU",FOX SERIES
+http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/O5r4qI.jpg",FOX FAMILY
+http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/09/20/OOK9IR.jpg",FoxThai_TH
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.ilike-movie.com/uploads/png/hd-foxaction.png",Fox Movie Actions
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnjCgOEhkM_aiGoH3uqltkvR4cW4OU7NJI0RuuTrjK3b2YJzoBiTjp0iWeHKcTyKc-mk&usqp=CAU",Fox Movies Family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvGGGFeo_O0M4uS7Rrw-Yv_lsvGdDFoWeaXeaM3PQ-VCQWBsq0KGhVWjKgzsDQ6aFVyQ&usqp=CAU",Fox Moovies HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aJnSqVRZ0SRxIdsiKlAXsl_14ly4K9ZIFU6hfIKQd6uC8m0Zfj1qvrEHvvpdg-3Ik2o&usqp=CAU",FX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVMFi0DWfdX09hzmfcKCD6boVnLrcJVQZOWbDb5Ww85IH18GifXb126zH3SMC5ccoL3I&usqp=CAU",GOLDEN PREMIER
+http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UzsEc658JONi_3KdNap0ENfKEM8R0yYHUdVX7GHMXahgFAq2sGU4fL0jl3YVXic8opY&usqp=CAU",HOLLYWOOD
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGk_nKOl1lozd9AHPgjVvqB1ox3HFiGt5ZfEQJPqAG-0wsAiYH4kk6VH5okKXkGA2sgg&usqp=CAU",AFN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://telecomtalk.info/wp-content/uploads/2014/08/axn-hd-launch-india.png",AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2021/01/06/lhQtTJ.jpg",SANOOK
+http://27.254.130.62/feed/LC53/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxaBQ8nvqTJDcnWv9NLVTGWBglgHEBcYgXpWoTSqM4VyYOXrxpwLXb2UoFJal065HptAM&usqp=CAU",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O88nee.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-m-channel-8929.jpg",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=11nKiKaou-jTuwM5BsglUYDQQC2MASRp9",Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklis.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1zOWLjd5Utrvqj7c7Fro_2mHmWL788m3J",Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdhFpKzYeqEe1EgmSYHiyOiVOBjbWiJi7z_dmrrquVRV60Vdyhel8yY-SGn0k1v8aSlM&usqp=CAU",Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",Movie 1
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",movie 2
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",movie 3
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",movie 4
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",Movie 5
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",Movie 6
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",Movie 7
+http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://drive.google.com/uc?id=1WynPstvLSZItebv2NOGNsC4LGXstIWIz",Movie 8
+http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://cms.dmpcdn.com/livetv/2020/10/19/6d3c86f0-11b8-11eb-ab84-d705c02e81b2_original.png",JKN
+http://27.254.130.62/feed/LC24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://sv1.picz.in.th/images/2020/10/06/Opun0D.jpg",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.tvovermind.com/wp-content/uploads/2017/05/the-dead-files-640x366.jpg",THE DEAD FILE TRAVER
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrHbkaa-T64BtB5ZDyjzX4q688ZnsfqpQg-5wl8Q8wzh-PK3kWOxYbJCqFMUsGh01eqc&usqp=CAU",BoolywoodMovie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrHbkaa-T64BtB5ZDyjzX4q688ZnsfqpQg-5wl8Q8wzh-PK3kWOxYbJCqFMUsGh01eqc&usqp=CAU",BolywoodTv
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://play-lh.googleusercontent.com/o0bDZdo6PoXS7WjRsKyuLC27F5yj27DMbTKVT8DKdiKjVBHcpuETQxCMCqyq_H1dfEw",Movietime
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="บันเทิง"tvg-logo="https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",แสงจันทร์
+https://freelive.inwstream.com:1936/freelive-edge/sangjun.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMXYvKbJjOCIcTTHo4AuFZAGR8Zsx7hwboZn3Ah07yP1C2_rrsc7oFYc6p_0JsS5lLg&usqp=CAU",เจริญcable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.inwiptv.com/postor/20200325175325PSI%20%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B5.jpg",PSI สาระดี
+https://freelive.inwstream.com:1936/freelive-edge/saradee99/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_cOHtI96Q9IPeat4LxKP3JJIo6nqULDxXznJ4xDWyi0X9Q2Cg_3inP8ApnbpBdjbGwA&usqp=CAU",สำรวจโลก
+http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBHOshCus7YEOsmjvtCjol_NB98iit6AF0ZLr9Y-VG80cFZUvEuVbfN2lyW5teik7-bw&usqp=CAU",เจริญ สารคดี
+http://27.254.130.62/feed/LC32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ckloA-lrWM1bSK54yUbiD2Ry1cjLcAtR22fUswoo5acme7qQeqy3X2m3Z6INVROPMw&usqp=CAU",Way Point
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbq5P28--t-D0_SZwOr7n0EBYkO2C9Ywxw4uJXxOeZUvp7dfyiL0Wq9tm1dLgIA66cVgs&usqp=CAU",The Pet Collective
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT12bU8nWuH8A_YVxL8glBSgJMrbw7v70i_j3nYWArb8FB6WdCkAtrvIwqw2AvUaUyxe8&usqp=CAU",Pet Club TV
+http://27.254.130.62/feed/LC18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8vQnR.png",NAT GEOGRAPHIC EN
+http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPJY2q.jpg",love nature4k
+http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPvDWW.png",HISTORY
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPvInt.png",H2
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPvInt.png",H2
+https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8vQnR.png",Nat Geo Wild
+https://mediasv.online/tvchannel_x2/hd-natgeowild/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjp_e6yfb5itF13biGN_kjEacscVG3Ymx8ZzIs1=s900-c-k-c0x00ffffff-no-rj",The Boat Show
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzf8GiwayMRi_7Bqmj5s0P1067h5Wnanovrvc9SIGkpCFFubB8tCOfubxsmBRCsf7BW-g&usqp=CAU",PURSUIT UP
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPGiQb.png",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/10/05/Oa0hiu.jpg",BBC earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPGbj0.png",Discovery TH
+https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPGDQI.png",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPGDQI.png",Discovery Asia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9laj7UpsJoHptZrU5x3j7Z_UBVCtd4jVW9ihUXuIhFPUol0KAZ-lACsM_kU-bIateGQ&usqp=CAU",The Outdoor
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9WEmV70EmpfOet7XvUcWX6P3iEHRU_xn11EwV7Vn0z8ESuxGMFwkfLnBOhC-DHT53oM&usqp=CAU",Outside TV
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepv0IRKXCdaUwv-v-mkOJ3NV9eKGZWhT2pLoYpiP3grnivKA6sGk1QRcLOd06J-3J_nU&usqp=CAU",MOTOR TREND
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-IwZBHoGxpZmBel7RLJIfQyKh4drtr_13YBQtxuid6hKfibwAt4P3pDaqBvJFhKwx3M&usqp=CAU",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://drive.google.com/uc?id=1IncG049wzOuN1n_Yw3_qb4XEsqeHrzid"วัวชน ถิ่นใต้
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 3
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",!Premier HD5
+http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+#EXTINF:-1  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กีฬา"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiFUDXNWKm6fjRWGR7RQVOgoyxqOkGiDnGgpLzwC7lnH1SnAJMGNsqooe57A1k5JXqX_Y&usqp=CAU",FC BAYERN TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i9WN.png",SKYNET HD
+https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iRx1.png",SKYNET SPORT1
+https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iEeb.png",SKYNET SPORT2
+https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ijOa.png",SKYNET SPORT3
+https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ilaq.png",SKYNET SPORT4
+https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iAx8.png",SKYNET SPORT5
+https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i2d0.png",SKYNET SPORT6
+https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://image.free.in.th/v/2013/ii/190913080456.jpg",Astro supersport1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg",Astro supersport2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://image.free.in.th/v/2013/ia/190913080624.jpg",Astro supersport3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://image.free.in.th/v/2013/it/190913080654.jpg",Astro supersport4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Th%E1%BB%83_thao_TV_HD.png",THETHAO-HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0ltOPXlv_9Zm9r-yWOCgTi0DXm4neexM9P5266JAufOvNq522TdikvBixgsbNeSTZkU&usqp=CAU",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6aje6gv9mxa1Jfxp9Dqvrf6G9xrywzRDIy7px65xwxhV056ayqT3tMm8oGUVHg7puBQ&usqp=CAU",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt3--81qFU-Ba6MaSk2uWyzAhnbGUb3rnMLTfIIxgRq0e6ZtkgAiQXc_5RIL5wK2DYVZ4&usqp=CAU",CCTV 5 +
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2p6Y0nNFLtj7hBJBr-MnPFVmIVvadZNxZKap5LXXXXvOLqU5jvEnycrFeAHenneF4VsQ&usqp=CAU",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0k-TQNwySUMm2wXeU_yVIxVM-zFhvCQgM-ywwE_bjpu1lBCfT8GyD3-OGOphMm3Zl9Q&usqp=CAU",BBC
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png",Rusia Today
+http://61.19.242.134/feed/LC9/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmB2NSHLkExI_VUarsFzgeD4GY6Hc_6RuzKRccwdkfb1DXWwXyO5GrO6OCAqwnQjCt3Tw&usqp=CAU",TV 5 MONDE
+http://61.19.242.134/feed/LC10/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpH8Nw9B_Qdqx4iuhb2vl1znxPMrZKVwF0OMwGrH13ZSGbjxCvbCV8XMSJeYYwlUwADcg&usqp=CAU",DW
+http://61.19.242.134/feed/LC12/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-bm_8R09-zznERvOq3W3jYnwmpLs8_dGUOCngiI3lg-FHUrtUvI78XYE9u3Gq3RR33w&usqp=CAU",Media Corp
+http://61.19.242.134/feed/LC16/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",CCTV4
+http://61.19.242.134/feed/LC33/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png",FRANCE
+http://61.19.242.134/feed/LC34/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCMMEj-d_MCwvYRbd7oMSYKaJaLKSkybn_W6LmSjfyr4i7UoQwe_2tQQLVvZiJUOtg_2A&usqp=CAU",Euro News
+http://61.19.242.134/feed/LC35/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mRvZf-WbfY9ibJ8sDRM0a4O5uzsqkaCl93YfFcXJMv6wsJCaGPiqr8_85-k9pl97vQk&usqp=CAU",YTN
+http://61.19.242.134/feed/LC44/playlist.m3u8
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA9MF2G0JjW-7bDvN3rrMOqKY6m0j3a0Qn7NRvh_ZIcn4unr0W
