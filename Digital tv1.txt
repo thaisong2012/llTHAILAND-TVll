@@ -217,7 +217,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-IwZBHoGxpZmBel7RLJIfQyKh4drtr_13YBQtxuid6hKfibwAt4P3pDaqBvJFhKwx3M&usqp=CAU",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://drive.google.com/uc?id=1IncG049wzOuN1n_Yw3_qb4XEsqeHrzid"วัวชน ถิ่นใต้
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://drive.google.com/uc?id=1IncG049wzOuN1n_Yw3_qb4XEsqeHrzid",วัวชน ถิ่นใต้
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 1
 http://139.99.80.237:9998/epl1/tracks-v1a1/mono.m3u8?token=6f9420ba860476ef4c7468378b70851cf1d7ca31-57a713047dc88c582a4a133079f4768c-1646359960-1646349160|Referer=http://udoofree.com/
