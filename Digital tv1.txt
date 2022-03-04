@@ -24,7 +24,8 @@ https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png"",WORK POINT
 https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png"",WORK POINT สำรอง
+https://cdn6.goprimetime.info/feed/202105171329/chworkpoint/index.m3u8
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png",True4u
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2uK8.png",GMM25
