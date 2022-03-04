@@ -220,7 +220,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://drive.google.com/uc?id=1IncG049wzOuN1n_Yw3_qb4XEsqeHrzid",วัวชน ถิ่นใต้
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 1
-http://139.99.80.237:9998/epl1/tracks-v1a1/mono.m3u8?token=6f9420ba860476ef4c7468378b70851cf1d7ca31-57a713047dc88c582a4a133079f4768c-1646359960-1646349160|Referer=http://udoofree.com/
+http://139.99.80.237:9998/epl1/tracks-v1a1/mono.m3u8?|Referer=http://udoofree.com/
+http://139.99.80.237:9998/epl1/tracks-v1a1/mono.m3u8?token=ea1df82a48441e15c987915d46bc2e9ba178419d-c6e5e2e31e4fc928bbb0df76f6045e28-1646364741-1646353941
+
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 2
@@ -228,7 +230,7 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 3
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p3u8
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD 3
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
