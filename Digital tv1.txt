@@ -1,24 +1,30 @@
 #EXTM3U URL
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png",5 HD
 https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png",5 HD สำรอง
-https://edge-m1.onlineprostream.com:447/hmcb4rf66f-th1/hd-ch5_720/chunks.m3u8?nimblesessionid=475139&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjEgMTo0NDozNSBQTSZoYXNoX3ZhbHVlPWQzNXdLNkdLbHVOeTdjdWpVa0Z4ZWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0zOTUzMjQ2fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2fDE2MjAzOTUwNzV8aGQtY2g1fDM5NTMyNDZ8MjIzLjIwNC4yMjMuMjQ5
+
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png",NBT
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png",Thai PBS
 https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.imgur.com/Jrqo8JP.png",TPTV
 https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.imgur.com/Jrqo8JP.png",TNN 16
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png",NATION TV
 https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png"",WORK POINT
 https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png",True4u
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2uK8.png",GMM25
@@ -44,6 +50,7 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://i.pinimg.com/originals/f6/1b/69/f61b693c366675849d8cc1097672f8ba.jpg",Top News
 http://live.topnews.co.th/hls/topnews.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/22/jXwT58.jpg",Toonee
 http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP8BXJ.jpg",Animax
